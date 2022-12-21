@@ -1,5 +1,5 @@
 Hello there! 
-![This is an image](https://images.app.goo.gl/v88SdjEcPHQSksrv6) 
+
 
 <hr>
         
